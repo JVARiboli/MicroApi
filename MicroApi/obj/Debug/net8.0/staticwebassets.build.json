@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "18MgtuX1aszpXrNFsCCGttLynYUe1dsWeT4LvF9QNUc=",
+  "Source": "MicroApi",
+  "BasePath": "_content/MicroApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|c:\\users\\joao_riboli\\desktop\\arquitetura\\microapi\\microapi\\microapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|solutionrelative:microapi\\microapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|c:\\users\\joao_riboli\\desktop\\arquitetura\\microapi\\microapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|solutionrelative:microapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|c:\\users\\joao_riboli\\desktop\\arquitetura\\microapi\\microapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|solutionrelative:microapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|c:\\users\\joao_riboli\\desktop\\arquitetura\\microapi\\microapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|solutionrelative:microapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|c:\\users\\joao_riboli\\desktop\\arquitetura\\microapi\\microapi\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|solutionrelative:microapi\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|c:\\users\\joao_riboli\\desktop\\arquitetura\\microapi\\microapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|solutionrelative:microapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|c:\\users\\joao_riboli\\desktop\\arquitetura\\microapi\\microapi\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|solutionrelative:microapi\\services\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|c:\\users\\joao_riboli\\desktop\\arquitetura\\microapi\\microapi\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|solutionrelative:microapi\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|c:\\users\\joao_riboli\\desktop\\arquitetura\\microapi\\microapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68B71306-8EC7-41E9-9245-1674657172BD}|MicroApi\\MicroApi.csproj|solutionrelative:microapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MicroApi",
+              "DocumentMoniker": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\MicroApi.csproj",
+              "RelativeDocumentMoniker": "MicroApi\\MicroApi.csproj",
+              "ToolTip": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\MicroApi.csproj",
+              "RelativeToolTip": "MicroApi\\MicroApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T00:44:36.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "MicroApi\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Services\\UserService.cs",
+              "RelativeToolTip": "MicroApi\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:43:42.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MicroApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Models\\User.cs",
+              "RelativeToolTip": "MicroApi\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:43:26.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MicroApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MicroApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:43:14.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "MicroApi\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "MicroApi\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:26:16.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Services\\ClientService.cs",
+              "RelativeDocumentMoniker": "MicroApi\\Services\\ClientService.cs",
+              "ToolTip": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Services\\ClientService.cs",
+              "RelativeToolTip": "MicroApi\\Services\\ClientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:18:22.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "MicroApi\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Models\\Client.cs",
+              "RelativeToolTip": "MicroApi\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T23:09:02.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Program.cs",
+              "RelativeDocumentMoniker": "MicroApi\\Program.cs",
+              "ToolTip": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Program.cs",
+              "RelativeToolTip": "MicroApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T22:47:21.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MicroApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\joao_riboli\\Desktop\\Arquitetura\\MicroApi\\MicroApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MicroApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T22:33:24.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

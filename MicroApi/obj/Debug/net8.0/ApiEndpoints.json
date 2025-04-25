@@ -1,0 +1,82 @@
+[
+  {
+    "ContainingType": "MicroApi.Controllers.ClientController\u002B\u003C\u003Ec",
+    "Method": "\u003CMapClientEndPoints\u003Eb__0_0",
+    "RelativePath": "",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MicroApi.Controllers.ClientController\u002B\u003C\u003Ec__DisplayClass0_0",
+    "Method": "\u003CMapClientEndPoints\u003Eb__3",
+    "RelativePath": "cliente",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "client",
+        "Type": "MicroApi.Models.Client",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MicroApi.Controllers.ClientController\u002B\u003C\u003Ec__DisplayClass0_0",
+    "Method": "\u003CMapClientEndPoints\u003Eb__2",
+    "RelativePath": "cliente/{id:int}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "MicroApi.Controllers.ClientController\u002B\u003C\u003Ec__DisplayClass0_0",
+    "Method": "\u003CMapClientEndPoints\u003Eb__1",
+    "RelativePath": "clientes",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[MicroApi.Models.Client, MicroApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
