@@ -27,3 +27,14 @@ C:\Users\joao_riboli\Desktop\Arquitetura\MicroApi\MicroApi\obj\Debug\net8.0\refi
 C:\Users\joao_riboli\Desktop\Arquitetura\MicroApi\MicroApi\obj\Debug\net8.0\MicroApi.pdb
 C:\Users\joao_riboli\Desktop\Arquitetura\MicroApi\MicroApi\obj\Debug\net8.0\MicroApi.genruntimeconfig.cache
 C:\Users\joao_riboli\Desktop\Arquitetura\MicroApi\MicroApi\obj\Debug\net8.0\ref\MicroApi.dll
+C:\Users\joao_riboli\Desktop\Arquitetura\MicroApi\MicroApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\joao_riboli\Desktop\Arquitetura\MicroApi\MicroApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\joao_riboli\Desktop\Arquitetura\MicroApi\MicroApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\joao_riboli\Desktop\Arquitetura\MicroApi\MicroApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\joao_riboli\Desktop\Arquitetura\MicroApi\MicroApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\joao_riboli\Desktop\Arquitetura\MicroApi\MicroApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\joao_riboli\Desktop\Arquitetura\MicroApi\MicroApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\joao_riboli\Desktop\Arquitetura\MicroApi\MicroApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\joao_riboli\Desktop\Arquitetura\MicroApi\MicroApi\obj\Debug\net8.0\MicroApi.csproj.AssemblyReference.cache
+C:\Users\joao_riboli\Desktop\Arquitetura\MicroApi\MicroApi\obj\Debug\net8.0\MicroApi.sourcelink.json
+C:\Users\joao_riboli\Desktop\Arquitetura\MicroApi\MicroApi\obj\Debug\net8.0\MicroApi.csproj.Up2Date

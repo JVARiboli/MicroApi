@@ -1,9 +1,10 @@
 using MicroApi.Controllers;
-using MicroApi.Models;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
+var secret = "012345678901234567890122345678901";
+var key = Encoding.ASCII.GetBytes(secret);
 
 builder.Services.AddAuthentication("Bearer")
     .AddJwtBearer("Bearer", options =>
@@ -12,8 +13,7 @@ builder.Services.AddAuthentication("Bearer")
         {
             ValidateIssuer = false,
             ValidateAudience = false,
-            ValidateIssuerSigningKey = true,
-            IssuerSigningKey = new SymmetricSecurityKey(Encoding.ASCII.GetBytes("sua-chave-super-secreta"))
+            IssuerSigningKey = new SymmetricSecurityKey(key)
         };
     });
 
@@ -21,6 +21,9 @@ builder.Services.AddAuthorization();
 
 var app = builder.Build();
 
+app.UseAuthentication();
+app.UseAuthorization();
 app.MapClientEndPoints();
+app.MapAuthEndPoints(secret);
 
 app.Run();
